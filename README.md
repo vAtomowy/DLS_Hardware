@@ -40,7 +40,7 @@ This repository contains the edge device code, which runs on an ESP32-C3 microco
 |:--------------------------------:|:----------------------------------:|
 
 <p align="center">
-  <img src="soldered.jpg" alt="Soldered Board" width="70%"/>
+  <img src="Soldered.jpg" alt="Soldered Board" width="70%"/>
 </p>
 
 ---
