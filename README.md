@@ -36,7 +36,7 @@ This repository contains the edge device code, which runs on an ESP32-C3 microco
 
 ## Realization
 
-| ![LEDBoard](LEDBoard/LED_Bulb.JPG) | ![MainBoard](MainBoard/MainPCB.png) |
+| ![MainBoard](MainBoard/MainPCB.png) | ![LEDBoard](LEDBoard/LED_Bulb.JPG) |
 |:--------------------------------:|:----------------------------------:|
 
 <p align="center">
