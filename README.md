@@ -36,11 +36,11 @@ This repository contains the edge device code, which runs on an ESP32-C3 microco
 
 ## Realization
 
-| ![LEDBoard](LEDBoard/LED_Bulb.jpg) | ![MainBoard](MainBoard/MainPCB.png) |
+| ![LEDBoard](LEDBoard/LED_Bulb.JPG) | ![MainBoard](MainBoard/MainPCB.png) |
 |:--------------------------------:|:----------------------------------:|
 
 <p align="center">
-  <img src="Soldered.jpg" alt="Soldered Board" width="70%"/>
+  <img src="soldered.jpg" alt="Soldered Board" width="70%"/>
 </p>
 
 ---
