@@ -1,0 +1,54 @@
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck2-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck2-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck3-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck3-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck4-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck4-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck5-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck5-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck6-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck6-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck7-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck7-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C19_DLS Buck8-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=C19_DLS Buck8-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck2-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck3-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck4-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck5-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck6-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck7-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=C21_DLS Buck8-2
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck2-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck3-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck4-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck5-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck6-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck7-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=D2_DLS Buck8-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck2-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck3-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck4-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck5-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck6-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck7-1
+Added Pin To Net: NetName=NetC19_DLS Buck1_2 Pin=L1_DLS Buck8-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck2-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck3-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck4-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck5-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck6-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck7-1
+Added Pin To Net: NetName=NetR23_DLS Buck1_1 Pin=R23_DLS Buck8-1
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck2-7
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck3-7
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck4-7
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck5-7
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck6-7
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck7-7
+Added Pin To Net: NetName=+24V_DLS Buck1 Pin=U7_DLS Buck8-7
+Change Net Name : Old Net Name=NetU5_8 New Net Name=DAC_7
+Change Net Name : Old Net Name=NetU5_9 New Net Name=DAC_8
+Added Class: Name=DAC_[1..8]
+Added Class: Name=G_COB_[1..8]
+Added Class: Name=V_COB_[1..8]

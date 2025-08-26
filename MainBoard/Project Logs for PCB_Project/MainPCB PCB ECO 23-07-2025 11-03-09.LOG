@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=D2_Buck1 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck2 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck3 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck4 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck5 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck6 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck7 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Footprint: Designator=D2_Buck8 Old Footprint=FP-95402-MFG New Footprint=FP-SOD123W-MFG
+Change Component Comment : Designator=D2_Buck1 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck2 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck3 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck4 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck5 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck6 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck7 Old Comment=SS34-E3/57T New Comment=
+Change Component Comment : Designator=D2_Buck8 Old Comment=SS34-E3/57T New Comment=
+Change Managed Component Library Link : Designator=D2_Buck1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change Managed Component Library Link : Designator=D2_Buck8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=931ACC5B-16E4-45C8-886E-0C2E4BC76450 Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=5C4FD257-3EE2-480B-AD88-81D04E139B0F
+Change component parameters: Designator = "D2_Buck1" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\1JHBXNWNF\TGSIWHAP" ("\1JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck2" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\2JHBXNWNF\TGSIWHAP" ("\2JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck3" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\3JHBXNWNF\TGSIWHAP" ("\3JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck4" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\4JHBXNWNF\TGSIWHAP" ("\4JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck5" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\5JHBXNWNF\TGSIWHAP" ("\5JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck6" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\6JHBXNWNF\TGSIWHAP" ("\6JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck7" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\7JHBXNWNF\TGSIWHAP" ("\7JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2_Buck8" ("D2"); Footprint = "FP-95402-MFG"; UniqueID = "\8JHBXNWNF\TGSIWHAP" ("\8JHBXNWNF\TGSIWHAP")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add Net: Net with name "GND" already exists

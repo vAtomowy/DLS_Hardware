@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=IO0 Pin=U1-18
+Change Component Description : Designator=F1 Old Description=2410 SMT Fuse New Description=2410 SMT Fuse | Quick Acting | 250mA | Higher AC Voltage
+Change Component Description : Designator=*C13 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C10 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C11 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C12 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C15 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C16 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=U4 Old Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP New Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP | Microchip Technology Inc. MCP4728-E/UN
+Change Component Description : Designator=U5 Old Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP New Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP | Microchip Technology Inc. MCP4728-E/UN
+Added Pin To Net: NetName=IO0 Pin=U1-10
+Change Net Name : Old Net Name=IO0 New Net Name=IO10
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=IO0 Pin=U1-18
+Added Net: Name=IO0

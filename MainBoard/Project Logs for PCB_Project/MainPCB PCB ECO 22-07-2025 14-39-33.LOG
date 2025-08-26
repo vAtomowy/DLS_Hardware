@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=GND Pin=*C13-1
+Removed Pin From Net: NetName=GND Pin=BT1-N
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=IO1 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=KEY1-1
+Removed Pin From Net: NetName=GND Pin=KEY1-2
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Pin From Net: NetName=GND Pin=PS1-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=IO1 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-19
+Removed Pin From Net: NetName=GND Pin=U1-20
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U1-22
+Removed Pin From Net: NetName=GND Pin=U1-23
+Removed Pin From Net: NetName=GND Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=GND Pin=U1-27
+Removed Pin From Net: NetName=GND Pin=U1-28
+Removed Pin From Net: NetName=GND Pin=U1-29
+Removed Pin From Net: NetName=GND Pin=U1-30
+Removed Pin From Net: NetName=GND Pin=U1-31
+Removed Pin From Net: NetName=GND Pin=U1-32
+Removed Pin From Net: NetName=GND Pin=U1-33
+Removed Pin From Net: NetName=GND Pin=U1-34
+Removed Pin From Net: NetName=GND Pin=U1-35
+Removed Pin From Net: NetName=GND Pin=U1-36
+Removed Pin From Net: NetName=GND Pin=U1-37
+Removed Pin From Net: NetName=GND Pin=U1-38
+Removed Pin From Net: NetName=GND Pin=U1-39
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U4-10
+Removed Pin From Net: NetName=GND Pin=U5-10
+Removed Pin From Net: NetName=+3.3V Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Member From Class: ClassName=DLS MCU Member=C14
+Removed Member From Class: ClassName=DLS MCU Member=R10
+Removed Member From Class: ClassName=DLS MCU Member=U6
+Added Pin To Net: NetName=+24V_Buck1 Pin=J3-1
+Added Pin To Net: NetName=+24V_Buck2 Pin=J3-3
+Added Pin To Net: NetName=+24V_Buck3 Pin=J3-5
+Added Pin To Net: NetName=+24V_Buck4 Pin=J3-7
+Added Pin To Net: NetName=+24V_Buck5 Pin=J3-9
+Added Pin To Net: NetName=+24V_Buck6 Pin=J4-1
+Added Pin To Net: NetName=+24V_Buck7 Pin=J4-3
+Added Pin To Net: NetName=+24V_Buck8 Pin=J4-5
+Change Net Name : Old Net Name=+24V_Buck1 New Net Name=V_COB_1
+Change Net Name : Old Net Name=+24V_Buck2 New Net Name=V_COB_2
+Change Net Name : Old Net Name=+24V_Buck3 New Net Name=V_COB_3
+Change Net Name : Old Net Name=+24V_Buck4 New Net Name=V_COB_4
+Change Net Name : Old Net Name=+24V_Buck5 New Net Name=V_COB_5
+Change Net Name : Old Net Name=+24V_Buck6 New Net Name=V_COB_6
+Change Net Name : Old Net Name=+24V_Buck7 New Net Name=V_COB_7
+Change Net Name : Old Net Name=+24V_Buck8 New Net Name=V_COB_8
+Change Net Name : Old Net Name=NetC19_Buck5_2 New Net Name=G_COB_5
+Change Net Name : Old Net Name=NetC19_Buck6_2 New Net Name=G_COB_6
+Change Net Name : Old Net Name=NetC19_Buck7_2 New Net Name=G_COB_7
+Change Net Name : Old Net Name=NetC19_Buck8_2 New Net Name=G_COB_8
+Added Pin To Net: NetName=G_COB_1 Pin=C19_Buck1-2
+Added Pin To Net: NetName=G_COB_1 Pin=J3-2
+Added Pin To Net: NetName=G_COB_1 Pin=L1_Buck1-1
+Added Net: Name=G_COB_1
+Added Pin To Net: NetName=G_COB_2 Pin=C19_Buck2-2
+Added Pin To Net: NetName=G_COB_2 Pin=J3-4
+Added Pin To Net: NetName=G_COB_2 Pin=L1_Buck2-1
+Added Net: Name=G_COB_2
+Added Pin To Net: NetName=G_COB_3 Pin=C19_Buck3-2
+Added Pin To Net: NetName=G_COB_3 Pin=J3-6
+Added Pin To Net: NetName=G_COB_3 Pin=L1_Buck3-1
+Added Net: Name=G_COB_3
+Added Pin To Net: NetName=G_COB_4 Pin=C19_Buck4-2
+Added Pin To Net: NetName=G_COB_4 Pin=J3-8
+Added Pin To Net: NetName=G_COB_4 Pin=L1_Buck4-1
+Added Net: Name=G_COB_4
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[0]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[1]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[2]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[3]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[4]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[5]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[6]: G_COB_
+Added Member To Class: ClassName=G_COB_[1..8] Member=Element[7]: G_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[4]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[5]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[6]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[7]: V_COB_

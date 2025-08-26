@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck2-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck2-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck3-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck3-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck4-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck4-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck5-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck5-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck6-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck6-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck7-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck7-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C19_Buck8-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=C19_Buck8-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck2-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck3-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck4-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck5-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck6-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck7-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=C21_Buck8-2
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck2-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck3-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck4-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck5-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck6-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck7-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=D2_Buck8-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck2-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck3-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck4-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck5-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck6-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck7-1
+Removed Pin From Net: NetName=NetC19_Buck1_2 Pin=L1_Buck8-1
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck2-7
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck3-7
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck4-7
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck5-7
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck6-7
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck7-7
+Removed Pin From Net: NetName=+24V_Buck1 Pin=U7_Buck8-7
+Change Component Description : Designator=F1 Old Description=2410 SMT Fuse New Description=2410 SMT Fuse | Quick Acting | 250mA | Higher AC Voltage
+Change Component Description : Designator=*C13 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C10 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C11 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C12 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C14 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C15 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C16 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C17_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C18_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C20_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck1 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck2 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck3 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck4 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck5 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck6 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck7 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=C21_Buck8 Old Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel New Description=Capacitor;Ceramic;0.1uF;10%;50V;Tape/Reel | AVX 08055C104KAT2A
+Change Component Description : Designator=U4 Old Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP New Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP | Microchip Technology Inc. MCP4728-E/UN
+Change Component Description : Designator=U5 Old Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP New Description=Microchip 4-channel 12 bit Serial DAC 10-Pin MSOP | Microchip Technology Inc. MCP4728-E/UN
+Added Pin To Net: NetName=DAC_1 Pin=R23_Buck1-1
+Added Pin To Net: NetName=DAC_2 Pin=R23_Buck2-1
+Added Pin To Net: NetName=DAC_3 Pin=R23_Buck3-1
+Added Pin To Net: NetName=DAC_4 Pin=R23_Buck4-1
+Added Pin To Net: NetName=DAC_5 Pin=R23_Buck5-1
+Added Pin To Net: NetName=DAC_6 Pin=R23_Buck6-1
+Added Pin To Net: NetName=DAC_7 Pin=R23_Buck7-1
+Added Pin To Net: NetName=DAC_8 Pin=R23_Buck8-1
+Change Net Name : Old Net Name=V_COB__DAC_1 New Net Name=V_COB_1
+Added Pin To Net: NetName=+24V_Buck2 Pin=C19_Buck2-1
+Added Pin To Net: NetName=+24V_Buck2 Pin=C21_Buck2-2
+Added Pin To Net: NetName=+24V_Buck2 Pin=D2_Buck2-1
+Added Pin To Net: NetName=+24V_Buck2 Pin=U7_Buck2-7
+Added Net: Name=+24V_Buck2
+Added Pin To Net: NetName=+24V_Buck3 Pin=C19_Buck3-1
+Added Pin To Net: NetName=+24V_Buck3 Pin=C21_Buck3-2
+Added Pin To Net: NetName=+24V_Buck3 Pin=D2_Buck3-1
+Added Pin To Net: NetName=+24V_Buck3 Pin=U7_Buck3-7
+Added Net: Name=+24V_Buck3
+Added Pin To Net: NetName=+24V_Buck4 Pin=C19_Buck4-1
+Added Pin To Net: NetName=+24V_Buck4 Pin=C21_Buck4-2
+Added Pin To Net: NetName=+24V_Buck4 Pin=D2_Buck4-1
+Added Pin To Net: NetName=+24V_Buck4 Pin=U7_Buck4-7
+Added Net: Name=+24V_Buck4
+Added Pin To Net: NetName=+24V_Buck5 Pin=C19_Buck5-1
+Added Pin To Net: NetName=+24V_Buck5 Pin=C21_Buck5-2
+Added Pin To Net: NetName=+24V_Buck5 Pin=D2_Buck5-1
+Added Pin To Net: NetName=+24V_Buck5 Pin=U7_Buck5-7
+Added Net: Name=+24V_Buck5
+Added Pin To Net: NetName=+24V_Buck6 Pin=C19_Buck6-1
+Added Pin To Net: NetName=+24V_Buck6 Pin=C21_Buck6-2
+Added Pin To Net: NetName=+24V_Buck6 Pin=D2_Buck6-1
+Added Pin To Net: NetName=+24V_Buck6 Pin=U7_Buck6-7
+Added Net: Name=+24V_Buck6
+Added Pin To Net: NetName=+24V_Buck7 Pin=C19_Buck7-1
+Added Pin To Net: NetName=+24V_Buck7 Pin=C21_Buck7-2
+Added Pin To Net: NetName=+24V_Buck7 Pin=D2_Buck7-1
+Added Pin To Net: NetName=+24V_Buck7 Pin=U7_Buck7-7
+Added Net: Name=+24V_Buck7
+Added Pin To Net: NetName=+24V_Buck8 Pin=C19_Buck8-1
+Added Pin To Net: NetName=+24V_Buck8 Pin=C21_Buck8-2
+Added Pin To Net: NetName=+24V_Buck8 Pin=D2_Buck8-1
+Added Pin To Net: NetName=+24V_Buck8 Pin=U7_Buck8-7
+Added Net: Name=+24V_Buck8
+Added Pin To Net: NetName=NetC19_Buck2_2 Pin=C19_Buck2-2
+Added Pin To Net: NetName=NetC19_Buck2_2 Pin=L1_Buck2-1
+Added Net: Name=NetC19_Buck2_2
+Added Pin To Net: NetName=NetC19_Buck3_2 Pin=C19_Buck3-2
+Added Pin To Net: NetName=NetC19_Buck3_2 Pin=L1_Buck3-1
+Added Net: Name=NetC19_Buck3_2
+Added Pin To Net: NetName=NetC19_Buck4_2 Pin=C19_Buck4-2
+Added Pin To Net: NetName=NetC19_Buck4_2 Pin=L1_Buck4-1
+Added Net: Name=NetC19_Buck4_2
+Added Pin To Net: NetName=NetC19_Buck5_2 Pin=C19_Buck5-2
+Added Pin To Net: NetName=NetC19_Buck5_2 Pin=L1_Buck5-1
+Added Net: Name=NetC19_Buck5_2
+Added Pin To Net: NetName=NetC19_Buck6_2 Pin=C19_Buck6-2
+Added Pin To Net: NetName=NetC19_Buck6_2 Pin=L1_Buck6-1
+Added Net: Name=NetC19_Buck6_2
+Added Pin To Net: NetName=NetC19_Buck7_2 Pin=C19_Buck7-2
+Added Pin To Net: NetName=NetC19_Buck7_2 Pin=L1_Buck7-1
+Added Net: Name=NetC19_Buck7_2
+Added Pin To Net: NetName=NetC19_Buck8_2 Pin=C19_Buck8-2
+Added Pin To Net: NetName=NetC19_Buck8_2 Pin=L1_Buck8-1
+Added Net: Name=NetC19_Buck8_2
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[0]: V_COB_

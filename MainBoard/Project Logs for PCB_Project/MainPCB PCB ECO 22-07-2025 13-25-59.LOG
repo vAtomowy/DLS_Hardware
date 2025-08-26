@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=V_COB_1
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=V_COB_2
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=V_COB_3
+Change Net Name : Old Net Name=NetJ3_7 New Net Name=V_COB_4
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[0]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[1]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[2]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[3]: V_COB_

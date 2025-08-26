@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=V_COB__Buck1 New Net Name=+24V_Buck1
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[0]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[1]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[2]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[3]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[4]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[5]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[6]: DAC_
+Added Member To Class: ClassName=DAC_[1..8] Member=Element[7]: DAC_

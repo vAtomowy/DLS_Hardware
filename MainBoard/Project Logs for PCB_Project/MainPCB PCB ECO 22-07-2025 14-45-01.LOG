@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=IO1 Pin=J4-8
+Added Pin To Net: NetName=+3.3V Pin=J4-10
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[0]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[1]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[2]: V_COB_
+Added Member To Class: ClassName=V_COB_[1..8] Member=Element[3]: V_COB_
