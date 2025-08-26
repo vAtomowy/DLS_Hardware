@@ -31,4 +31,18 @@ This repository contains the edge device code, which runs on an ESP32-C3 microco
   - Real-Time Clock (RTC)
   - FRAM I²C memory 
   - GPIO user peripherals  
+  
+---
+
+## Realization
+
+<p align="center">
+  <img src="LEDBoard/Render.jpg" alt="LEDBoard Render" width="45%"/>
+  <img src="MainBoard/MainPCB.png" alt="MainBoard Render" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="soldered.jpg" alt="Soldered Board" width="70%"/>
+</p>
+
 ---
